@@ -1,0 +1,7 @@
+# for clion
+.idea
+cmake-build-debug
+
+# for vscode
+.vscode
+build
